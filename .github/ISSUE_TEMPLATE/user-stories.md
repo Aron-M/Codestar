@@ -1,5 +1,5 @@
 ---
-name: First test Issue and starting up Repository
+name: User stories
 about: This is the initial test issue and repo startup
 title: INITIAL USER STORY ISSUE
 labels: ''
