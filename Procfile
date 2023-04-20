@@ -1,0 +1,1 @@
+web: gunicorn i-think-therefor-i-blog.wsgi
